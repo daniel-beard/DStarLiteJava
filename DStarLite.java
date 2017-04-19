@@ -2,8 +2,8 @@ import java.util.*;
 /**
  *
  * @author daniel beard
- * http://danielbeard.wordpress.com
- * http://github.com/paintstripper
+ * http://danielbeard.io
+ * http://github.com/daniel-beard
  *
  * Copyright (C) 2012 Daniel Beard
  *

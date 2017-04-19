@@ -29,3 +29,7 @@ Example usage:
       {   
          System.out.println("x: " + i.x + " y: " + i.y);
       }   
+      
+License
+=============
+MIT
